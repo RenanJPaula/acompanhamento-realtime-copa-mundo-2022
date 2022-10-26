@@ -22,6 +22,8 @@ App de partida:
     </p>
 </p>
 
+<br/><br/>
+
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/89088581?v=4"/>
     <p>&nbsp&nbsp&nbspVitor Johansen Guerra <br>
