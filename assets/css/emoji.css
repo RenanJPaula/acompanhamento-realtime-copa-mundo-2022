@@ -1,5 +1,4 @@
 .emoji {
-    display: none;
     width: 150px;
     z-index: 1;
     position: fixed;
@@ -22,8 +21,7 @@
 }
 
 .emoji.show {
-    display: inline-block;
     animation: ease-in-out;
     animation-name: show;
-    animation-duration: 3s;
+    animation-duration: 4s;
 }
