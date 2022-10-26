@@ -12,10 +12,20 @@ App de partida:
 </p>
 
 
+## 🌎 Nossas redes sociais
+
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/3266640?s=120&v=4"/>
     <p>&nbsp&nbsp&nbspRenan Johannsen de Paula <br>
     &nbsp&nbsp&nbsp<a href="https://github.com/RenanJPaula">GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
+    </p>
+</p>
+
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/89088581?v=4"/>
+    <p>&nbsp&nbsp&nbspVitor Johansen Guerra <br>
+    &nbsp&nbsp&nbsp<a href="https://github.com/vitorjguerra">GitHub</a>&nbsp;|&nbsp;
+    <a href="hhttps://www.linkedin.com/in/v%C3%ADtor-johansen-guerra-8025bb21a/">LinkedIn</a>
     </p>
 </p>
