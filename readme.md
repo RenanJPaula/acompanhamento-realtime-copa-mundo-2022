@@ -13,7 +13,7 @@ App de partida:
 
 
 <p>
-    <img align=left margin=10 width=80 src="./assets/images/renan-avatar.jpeg"/>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/3266640?s=120&v=4"/>
     <p>&nbsp&nbsp&nbspRenan Johannsen de Paula <br>
     &nbsp&nbsp&nbsp<a href="https://github.com/RenanJPaula">GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
