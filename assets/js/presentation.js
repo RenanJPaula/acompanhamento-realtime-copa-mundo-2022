@@ -9,6 +9,15 @@ function playEffect(name) {
     effect.play()
 }
 
+function showEmoju(name) {
+    const emoji = document.getElementById(`emoji-${name}`)
+    emoji.classList.add('show')
+
+    setInterval(() => {
+        emoji.classList.remove('show')
+    }, 5000)
+}
+
 export function updateScore(match, br, other) {
     const newScore = `${br} x ${other}`
     console.log(`Updating score from ${match} to ${newScore}`)
@@ -19,5 +28,6 @@ export function updateScore(match, br, other) {
     if (br > 0) {
         showConfetti(scoreEl)
         playEffect('gol')
+        showEmoju('gol')
     }
 }
